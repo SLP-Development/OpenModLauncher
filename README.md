@@ -1,5 +1,3 @@
-# This Projects does not get Developed anymore!! it just got moved here for better organisation
-
 # SLPMods Launcher
 The SLPMods Launcher is officially developed for the german gaming network [SLPNetwork](https://slpnetwork.tk).
 This Repo will always be the Development Repo of this launcher, this means it may contain major bugs and may not always be stable.
