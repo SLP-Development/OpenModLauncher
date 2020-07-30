@@ -10,8 +10,8 @@ modules.exports = {
                 agent: {
                     name: 'Minecraft'
                 },
-                username: "mauricefl@outlook.de",
-                password: "22999Mau"
+                username: "",
+                password: ""
             })
         }, (error, response, body) => {
             // Resolve Response from MojangAPI
