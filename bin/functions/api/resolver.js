@@ -1,3 +1,7 @@
+/*
+The only purpose of this file was to test what the mojang api returns 
+you can safely remove this file if you dont want it to be in you project
+*/
 modules.exports = {
     'resolveAuthentification': (request, fs, OSname) => {
         request({
